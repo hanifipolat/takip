@@ -1,0 +1,249 @@
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\takip.exe.config
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\takip.exe
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\takip.pdb
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.csprojResolveAssemblyReference.cache
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.Form1.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.Properties.Resources.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.csproj.GenerateResource.Cache
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.exe
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.pdb
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.login.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.anasayfa.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.goster.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.Ekle.resources
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Documents\Visual Studio 2015\Projects\takip\takip\obj\Debug\takip.exe.licenses
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\takip.exe.config
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\takip.exe
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\takip.pdb
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraSpellChecker.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraSpellChecker.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraSpellChecker.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.csprojResolveAssemblyReference.cache
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.anasayfa.resources
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.Ekle.resources
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.Form1.resources
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.goster.resources
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.Properties.Resources.resources
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.csproj.GenerateResource.Cache
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.exe.licenses
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.exe
+C:\Users\Hanifi\Desktop\takip\takip\obj\Debug\takip.pdb
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.CodeParser.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.DataAccess.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Xpo.v17.1.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.DataAccess.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\DevExpress.Xpo.v17.1.xml
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\Hanifi\Desktop\takip\takip\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
