@@ -23,10 +23,11 @@ namespace takip
         //Sql Servera bağlanırken kullandığımız bilgileri ve veritabanı ismini yazıyoruz.
         SqlConnection baglanti =new SqlConnection(conString);
         //bağlantı cümlemizi kullanarak bir SqlConnection bağlantısı oluşturuyoruz.
-        string hosting;
-        string alanadi;
+        string hosting="";
+        string alanadi="";
         string yazilim;
         DateTime bugun = DateTime.Today;
+        int tutar =0;
         private void bunifuFlatButton1_Click(object sender, EventArgs e)
         {
            try
@@ -35,42 +36,59 @@ namespace takip
                 if (checkEdit1.Checked)
                 {
                     hosting += "1 GB ";
+                    tutar += 40;
                 }
                 if (checkEdit2.Checked)
                 {
                     hosting += "2 GB ";
+                    tutar += 55;
                 }
                 if (checkEdit3.Checked)
                 {
                     hosting += "4 GB ";
+                    tutar += 80;
                 }
                 if (checkEdit4.Checked)
                 {
-                    hosting += "5 GB ";
+                    hosting += "8 GB ";
+                    tutar += 100;
                 }
                 if (checkEdit5.Checked)
                 {
                     hosting += "Limitsiz ";
+                    tutar += 120;
+                }
+                if (hosting == "")
+                {
+                    hosting += "yok";
                 }
                 if (checkEdit12.Checked)
                 {
                     alanadi += ".com ";
+                    tutar += 70;
                 }
                 if (checkEdit11.Checked)
                 {
                     alanadi += ".net ";
+                    tutar += 60;
                 }
                 if (checkEdit10.Checked)
                 {
                     alanadi += ".org ";
+                    tutar += 40;
                 }
                 if (checkEdit9.Checked)
                 {
                     alanadi += ".xyz ";
+                    tutar += 25;
                 }
                 if (checkEdit8.Checked)
                 {
                     alanadi += ".com.tr ";
+                }
+                if(alanadi=="")
+                {
+                    alanadi += "yok";
                 }
                 if (checkEdit13.Checked)
                 {
@@ -91,7 +109,7 @@ namespace takip
                 if (baglanti.State == ConnectionState.Closed)
                     baglanti.Open();
                 // Bağlantımızı kontrol ediyoruz, eğer kapalıysa açıyoruz.
-                string kayit = "insert into musteri(adi,telefon,mail,adres,fiyat,hosting,alanadi,yazilim,sure) values (@adi,@telefon,@mail,@adres,@fiyat,@hosting,@alanadi,@yazilim,@sure)";
+                string kayit = "insert into musteri(adi,telefon,mail,adres,fiyat,tutar,hosting,alanadi,yazilim,sure) values (@adi,@telefon,@mail,@adres,@fiyat,@tutar,@hosting,@alanadi,@yazilim,@sure)";
                 // müşteriler tablomuzun ilgili alanlarına kayıt ekleme işlemini gerçekleştirecek sorgumuz.
                 SqlCommand komut = new SqlCommand(kayit, baglanti);
                 //Sorgumuzu ve baglantimizi parametre olarak alan bir SqlCommand nesnesi oluşturuyoruz.
@@ -100,6 +118,7 @@ namespace takip
                 komut.Parameters.AddWithValue("@mail", bunifuCustomTextbox2.Text);
                 komut.Parameters.AddWithValue("@adres", richTextBox1.Text);
                 komut.Parameters.AddWithValue("@fiyat", bunifuCustomTextbox3.Text);
+                komut.Parameters.AddWithValue("@tutar", tutar);
                 komut.Parameters.AddWithValue("@hosting", hosting);
                 komut.Parameters.AddWithValue("@alanadi", alanadi);
                 komut.Parameters.AddWithValue("@yazilim", yazilim);

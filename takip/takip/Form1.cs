@@ -32,7 +32,6 @@ namespace takip
             label1.Font = new Font("dry brush", 32, FontStyle.Bold);
 
         }
-
         private void bunifuThinButton21_Click(object sender, EventArgs e)
         {
             string user = bunifuMetroTextbox1.Text;
@@ -97,8 +96,8 @@ namespace takip
             {
                 string user = bunifuMetroTextbox1.Text;
                 string pass = bunifuMetroTextbox2.Text;
-                con = new SqlConnection("server=HANIFI; Initial Catalog=takip;Integrated Security=SSPI");
                 cmd = new SqlCommand();
+                con = new SqlConnection("server=HANIFI; Initial Catalog=takip;Integrated Security=SSPI");
                 con.Open();
                 cmd.Connection = con;
                 cmd.CommandText = "SELECT * FROM login where kadi='" + bunifuMetroTextbox1.Text + "' AND sifre='" + bunifuMetroTextbox2.Text + "'";

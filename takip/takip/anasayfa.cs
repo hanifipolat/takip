@@ -33,13 +33,13 @@ namespace takip
             panel1.BackColor = Color.SteelBlue;
             panel2.BackColor = Color.Transparent;
             panel3.BackColor = Color.Transparent;
+            panel5.BackColor = Color.Transparent;
             goster form = new goster();
             form.TopLevel = false;
             panel4.Controls.Add(form);
             form.Show();
             form.Dock = DockStyle.Fill;
             form.BringToFront();
-            pictureBox2.Hide();
             panel4.Show();
         }
 
@@ -48,23 +48,23 @@ namespace takip
             panel1.BackColor = Color.Transparent;
             panel2.BackColor = Color.SteelBlue;
             panel3.BackColor = Color.Transparent;
+            panel5.BackColor = Color.Transparent;
             Ekle form = new Ekle();
             form.TopLevel = false;
             panel4.Controls.Add(form);
             form.Show();
             form.Dock = DockStyle.Fill;
             form.BringToFront();
-            pictureBox2.Hide();
             panel4.Show();
         }
 
         private void bunifuFlatButton4_Click(object sender, EventArgs e)
         {
             panel4.Hide();
-            pictureBox2.Visible=true;
             panel1.BackColor = Color.Transparent;
             panel2.BackColor = Color.Transparent;
             panel3.BackColor = Color.SteelBlue;
+            panel5.BackColor = Color.Transparent;
         }
 
         private void anasayfa_Load(object sender, EventArgs e)
@@ -72,6 +72,7 @@ namespace takip
             panel1.BackColor = Color.Transparent;
             panel2.BackColor = Color.Transparent;
             panel3.BackColor = Color.SteelBlue;
+            panel5.BackColor = Color.Transparent;
         }
         Point İlkkonum; // Bu değişkenler Global olarak tanımlanmalı.
         bool durum = false;
@@ -98,6 +99,14 @@ namespace takip
             this.Cursor = Cursors.Default; // Fare işaretçisi Default halini aldı.
 
 
+        }
+
+        private void bunifuFlatButton5_Click(object sender, EventArgs e)
+        {
+            panel1.BackColor = Color.Transparent;
+            panel2.BackColor = Color.Transparent;
+            panel3.BackColor = Color.Transparent;
+            panel5.BackColor = Color.SteelBlue;
         }
     }
 }
