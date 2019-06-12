@@ -29,7 +29,11 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            DevExpress.XtraEditors.Controls.EditorButtonImageOptions editorButtonImageOptions1 = new DevExpress.XtraEditors.Controls.EditorButtonImageOptions();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(goster));
             this.gridControl1 = new DevExpress.XtraGrid.GridControl();
+            this.musteriBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.takipDataSet12 = new takip.takipDataSet12();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.coladi = new DevExpress.XtraGrid.Columns.GridColumn();
             this.coltelefon = new DevExpress.XtraGrid.Columns.GridColumn();
@@ -42,14 +46,20 @@
             this.colfiyat = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn1 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.gridColumn3 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.btndelete = new DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit();
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
-            this.takipDataSet12 = new takip.takipDataSet12();
-            this.musteriBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.musteriTableAdapter = new takip.takipDataSet12TableAdapters.musteriTableAdapter();
+            this.takipDataSet12BindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.gridColumn4 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.btnedit = new DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit();
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.musteriBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btndelete)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12BindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnedit)).BeginInit();
             this.SuspendLayout();
             // 
             // gridControl1
@@ -59,11 +69,23 @@
             this.gridControl1.Location = new System.Drawing.Point(0, 0);
             this.gridControl1.MainView = this.gridView1;
             this.gridControl1.Name = "gridControl1";
+            this.gridControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
+            this.btndelete,
+            this.btnedit});
             this.gridControl1.Size = new System.Drawing.Size(1113, 602);
             this.gridControl1.TabIndex = 4;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1});
-            this.gridControl1.Click += new System.EventHandler(this.gridControl1_Click);
+            // 
+            // musteriBindingSource
+            // 
+            this.musteriBindingSource.DataMember = "musteri";
+            this.musteriBindingSource.DataSource = this.takipDataSet12;
+            // 
+            // takipDataSet12
+            // 
+            this.takipDataSet12.DataSetName = "takipDataSet12";
+            this.takipDataSet12.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // gridView1
             // 
@@ -78,7 +100,9 @@
             this.colsure,
             this.colfiyat,
             this.gridColumn1,
-            this.gridColumn2});
+            this.gridColumn2,
+            this.gridColumn3,
+            this.gridColumn4});
             this.gridView1.GridControl = this.gridControl1;
             this.gridView1.GroupPanelText = "Gruplamak istediğiniz kolonu sürükleyiniz.";
             this.gridView1.Name = "gridView1";
@@ -170,23 +194,53 @@
             this.gridColumn2.Visible = true;
             this.gridColumn2.VisibleIndex = 9;
             // 
+            // gridColumn3
+            // 
+            this.gridColumn3.Caption = "Sil";
+            this.gridColumn3.ColumnEdit = this.btndelete;
+            this.gridColumn3.Name = "gridColumn3";
+            this.gridColumn3.Visible = true;
+            this.gridColumn3.VisibleIndex = 10;
+            // 
+            // btndelete
+            // 
+            this.btndelete.AutoHeight = false;
+            editorButtonImageOptions1.Image = ((System.Drawing.Image)(resources.GetObject("editorButtonImageOptions1.Image")));
+            this.btndelete.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(editorButtonImageOptions1, DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, null)});
+            this.btndelete.Name = "btndelete";
+            this.btndelete.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.HideTextEditor;
+            this.btndelete.ButtonClick += new DevExpress.XtraEditors.Controls.ButtonPressedEventHandler(this.btndelete_ButtonClick);
+            // 
             // defaultLookAndFeel1
             // 
             this.defaultLookAndFeel1.LookAndFeel.SkinName = "The Asphalt World";
             // 
-            // takipDataSet12
-            // 
-            this.takipDataSet12.DataSetName = "takipDataSet12";
-            this.takipDataSet12.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // musteriBindingSource
-            // 
-            this.musteriBindingSource.DataMember = "musteri";
-            this.musteriBindingSource.DataSource = this.takipDataSet12;
-            // 
             // musteriTableAdapter
             // 
             this.musteriTableAdapter.ClearBeforeFill = true;
+            // 
+            // takipDataSet12BindingSource
+            // 
+            this.takipDataSet12BindingSource.DataSource = this.takipDataSet12;
+            this.takipDataSet12BindingSource.Position = 0;
+            // 
+            // gridColumn4
+            // 
+            this.gridColumn4.Caption = "Düzenle";
+            this.gridColumn4.ColumnEdit = this.btnedit;
+            this.gridColumn4.Name = "gridColumn4";
+            this.gridColumn4.Visible = true;
+            this.gridColumn4.VisibleIndex = 11;
+            // 
+            // btnedit
+            // 
+            this.btnedit.AutoHeight = false;
+            this.btnedit.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton()});
+            this.btnedit.Name = "btnedit";
+            this.btnedit.TextEditStyle = DevExpress.XtraEditors.Controls.TextEditStyles.HideTextEditor;
+            this.btnedit.Click += new System.EventHandler(this.btnedit_Click);
             // 
             // goster
             // 
@@ -199,9 +253,12 @@
             this.Text = "goster";
             this.Load += new System.EventHandler(this.goster_Load);
             ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.musteriBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btndelete)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.takipDataSet12BindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.btnedit)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -224,5 +281,10 @@
         private takipDataSet12 takipDataSet12;
         private System.Windows.Forms.BindingSource musteriBindingSource;
         private takipDataSet12TableAdapters.musteriTableAdapter musteriTableAdapter;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn3;
+        private DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit btndelete;
+        private System.Windows.Forms.BindingSource takipDataSet12BindingSource;
+        private DevExpress.XtraGrid.Columns.GridColumn gridColumn4;
+        private DevExpress.XtraEditors.Repository.RepositoryItemButtonEdit btnedit;
     }
 }

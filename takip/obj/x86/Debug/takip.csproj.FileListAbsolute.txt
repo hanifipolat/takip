@@ -1,0 +1,11 @@
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.anasayfa.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.duzenlesil.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.Ekle.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.Form1.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.goster.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.login.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.Properties.Resources.resources
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.csproj.GenerateResource.cache
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.exe.licenses
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.csproj.CoreCompileInputs.cache
+C:\Users\Hanifi\Documents\GitHub\takip\takip\obj\x86\Debug\takip.csprojAssemblyReference.cache

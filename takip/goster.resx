@@ -123,13 +123,27 @@
   <metadata name="takipDataSet12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>381, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="editorButtonImageOptions1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAECSURBVDhPzVI7jsIwFEzF3oGGkr0IokA0K1YCxBFIQd6L00YrQQGIayCOgTgIHSAOwG8jYMxO
+        CMlGiJKRRrbfzDw7jp33gTGmKKILz/O/WfoHVfMjYmau636wlADCXMS/gL+YN1i+w/N0QB3UIcsJVLUO
+        8UjTCU2+KKG532fdci0in5TSQKgCw47GCLt2ME64tlwiXKI9H5kmZ46vhWOwCe7iL6zqb18OWyA0jsNk
+        hDtqU34O7DZ6CG7APecR2KItH/b30Gx5++bsxeIkTdrTwCMJaALNCg+rTMn+4hrqB+oYgyqlBAhN88Ix
+        Mk16LCcIw7BgX1teOIbdGSftcvkWcJwrO7PCte5sCBgAAAAASUVORK5CYII=
+</value>
+  </data>
   <metadata name="defaultLookAndFeel1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>180, 17</value>
   </metadata>
-  <metadata name="takipDataSet12.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>381, 17</value>
-  </metadata>
   <metadata name="musteriTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>747, 17</value>
+  </metadata>
+  <metadata name="takipDataSet12BindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 60</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>91</value>
   </metadata>
 </root>

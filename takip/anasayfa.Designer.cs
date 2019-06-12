@@ -42,8 +42,6 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel4 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.bunifuFlatButton5 = new ns1.BunifuFlatButton();
             this.bunifuGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel4.SuspendLayout();
@@ -59,8 +57,6 @@
             this.bunifuGradientPanel1.BackColor = System.Drawing.Color.White;
             this.bunifuGradientPanel1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("bunifuGradientPanel1.BackgroundImage")));
             this.bunifuGradientPanel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuGradientPanel1.Controls.Add(this.panel5);
-            this.bunifuGradientPanel1.Controls.Add(this.bunifuFlatButton5);
             this.bunifuGradientPanel1.Controls.Add(this.panel3);
             this.bunifuGradientPanel1.Controls.Add(this.bunifuFlatButton4);
             this.bunifuGradientPanel1.Controls.Add(this.bunifuFlatButton3);
@@ -270,48 +266,6 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Yan taraftan işlemlerinizi yapabilirsiniz.";
             // 
-            // panel5
-            // 
-            this.panel5.Location = new System.Drawing.Point(84, 344);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(5, 56);
-            this.panel5.TabIndex = 6;
-            // 
-            // bunifuFlatButton5
-            // 
-            this.bunifuFlatButton5.Activecolor = System.Drawing.Color.SteelBlue;
-            this.bunifuFlatButton5.BackColor = System.Drawing.SystemColors.Window;
-            this.bunifuFlatButton5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.bunifuFlatButton5.BorderRadius = 0;
-            this.bunifuFlatButton5.ButtonText = "";
-            this.bunifuFlatButton5.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.bunifuFlatButton5.DisabledColor = System.Drawing.Color.SteelBlue;
-            this.bunifuFlatButton5.Iconcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.Iconimage = ((System.Drawing.Image)(resources.GetObject("bunifuFlatButton5.Iconimage")));
-            this.bunifuFlatButton5.Iconimage_right = null;
-            this.bunifuFlatButton5.Iconimage_right_Selected = null;
-            this.bunifuFlatButton5.Iconimage_Selected = null;
-            this.bunifuFlatButton5.IconMarginLeft = 0;
-            this.bunifuFlatButton5.IconMarginRight = 0;
-            this.bunifuFlatButton5.IconRightVisible = true;
-            this.bunifuFlatButton5.IconRightZoom = 0D;
-            this.bunifuFlatButton5.IconVisible = true;
-            this.bunifuFlatButton5.IconZoom = 45D;
-            this.bunifuFlatButton5.IsTab = false;
-            this.bunifuFlatButton5.Location = new System.Drawing.Point(20, 344);
-            this.bunifuFlatButton5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.bunifuFlatButton5.Name = "bunifuFlatButton5";
-            this.bunifuFlatButton5.Normalcolor = System.Drawing.Color.Transparent;
-            this.bunifuFlatButton5.OnHovercolor = System.Drawing.Color.SteelBlue;
-            this.bunifuFlatButton5.OnHoverTextColor = System.Drawing.Color.White;
-            this.bunifuFlatButton5.selected = true;
-            this.bunifuFlatButton5.Size = new System.Drawing.Size(64, 53);
-            this.bunifuFlatButton5.TabIndex = 5;
-            this.bunifuFlatButton5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.bunifuFlatButton5.Textcolor = System.Drawing.Color.White;
-            this.bunifuFlatButton5.TextFont = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.bunifuFlatButton5.Click += new System.EventHandler(this.bunifuFlatButton5_Click);
-            // 
             // anasayfa
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -348,7 +302,5 @@
         private ns1.BunifuFlatButton bunifuFlatButton4;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Panel panel5;
-        private ns1.BunifuFlatButton bunifuFlatButton5;
     }
 }

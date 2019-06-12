@@ -285,6 +285,7 @@
             this.checkEdit12.Properties.Caption = ".com";
             this.checkEdit12.Size = new System.Drawing.Size(109, 26);
             this.checkEdit12.TabIndex = 20;
+            
             // 
             // label6
             // 
@@ -351,7 +352,7 @@
             this.bunifuCustomTextbox2.Name = "bunifuCustomTextbox2";
             this.bunifuCustomTextbox2.Size = new System.Drawing.Size(259, 22);
             this.bunifuCustomTextbox2.TabIndex = 31;
-            // 
+             // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -379,7 +380,7 @@
             this.bunifuCustomTextbox3.Name = "bunifuCustomTextbox3";
             this.bunifuCustomTextbox3.Size = new System.Drawing.Size(259, 22);
             this.bunifuCustomTextbox3.TabIndex = 34;
-            // 
+             // 
             // Ekle
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
